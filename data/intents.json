@@ -1,0 +1,25 @@
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey",
+    "good morning",
+    "good evening"
+  ],
+  "set_reminder": [
+    "set a reminder",
+    "remind me",
+    "add reminder",
+    "create a reminder"
+  ],
+  "show_reminders": [
+    "show my reminders",
+    "what are my reminders",
+    "list reminders"
+  ],
+  "help": [
+    "what can you do",
+    "help me",
+    "how does this work"
+  ]
+}
